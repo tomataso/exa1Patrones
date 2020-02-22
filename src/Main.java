@@ -1,5 +1,5 @@
-import gestores.Gestor;
-import ui.UIEscrita;
+        import gestores.Gestor;
+        import ui.UIEscrita;
 
 public class Main {
 
