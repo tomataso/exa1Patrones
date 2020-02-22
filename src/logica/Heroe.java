@@ -19,22 +19,49 @@ public class Heroe extends Persona implements Acciones {
     @Override
     public String ayudar() {
 
+        String respuesta = "El Heroe te ayuda y dice: ¡Tranquilo noble cuidadano yo te protegeré!";
+        return respuesta;
     }
 
     @Override
     public String atormentar() {
-
+        String respuesta = "El Heroe: No hace nada, por qué un heroenunca atormenta.";
+        return respuesta;
     }
 
     @Override
     public String pedir_Ayuda() {
-
+        String respuesta = "El Heroe: No pide ayuda (por qué no necesita ayuda, solo ayuda para parar de ser tan genial).";
+        return respuesta;
     }
 
     @Override
     public String correr() {
-
+        String respuesta = "El Heroe: Corre a toda velocidad a capturar a los malos.";
+        return respuesta;
     }
 
+    public String getAlias() {
+        return alias;
+    }
 
+    public void setAlias(String alias) {
+        this.alias = alias;
+    }
+
+    public String getPoderes() {
+        return poderes;
+    }
+
+    public void setPoderes(String poderes) {
+        this.poderes = poderes;
+    }
+
+    public String getCapa() {
+        return Capa;
+    }
+
+    public void setCapa(String capa) {
+        Capa = capa;
+    }
 }
