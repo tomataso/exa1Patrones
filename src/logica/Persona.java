@@ -1,6 +1,6 @@
 package logica;
 
-public class Persona  {
+public class Persona {
 
 
     private String nombre;

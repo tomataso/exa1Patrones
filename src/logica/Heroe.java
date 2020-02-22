@@ -19,25 +19,25 @@ public class Heroe extends Persona implements Acciones {
     @Override
     public String ayudar() {
 
-        String respuesta = "El Heroe te ayuda y dice: ¡Tranquilo noble cuidadano yo te protegeré!";
+        String respuesta = "El Héroe te ayuda y dice: ¡Tranquilo noble cuidadano yo te protegeré!";
         return respuesta;
     }
 
     @Override
     public String atormentar() {
-        String respuesta = "El Heroe: No hace nada, por qué un heroenunca atormenta.";
+        String respuesta = "El Héroe: No hace nada, por qué un heroenunca atormenta.";
         return respuesta;
     }
 
     @Override
     public String pedir_Ayuda() {
-        String respuesta = "El Heroe: No pide ayuda (por qué no necesita ayuda, solo ayuda para parar de ser tan genial).";
+        String respuesta = "El Héroe: No pide ayuda (por qué no necesita ayuda, solo ayuda para parar de ser tan genial).";
         return respuesta;
     }
 
     @Override
     public String correr() {
-        String respuesta = "El Heroe: Corre a toda velocidad a capturar a los malos.";
+        String respuesta = "El Héroe: Corre a toda velocidad a capturar a los malos.";
         return respuesta;
     }
 
@@ -64,4 +64,6 @@ public class Heroe extends Persona implements Acciones {
     public void setCapa(String capa) {
         Capa = capa;
     }
+
+
 }

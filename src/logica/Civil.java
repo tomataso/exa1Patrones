@@ -18,13 +18,13 @@ public class Civil extends Persona implements Acciones {
 
     @Override
     public String atormentar() {
-        String respuesta = "El Ciudadano Civil:  tampoco te puedo atormentar, a menos que sea tu dentista :B ";
+        String respuesta = "El Ciudadano Civil:  tampoco te puedo atormentar, a menos que sea tu dentista.";
         return respuesta;
     }
 
     @Override
     public String pedir_Ayuda() {
-        String respuesta = "El Ciudadano Civil: AYUUUUUDAAA AYUUDAAA CALZETIN CON ROMBOS MAN! O EL CHAPULÍN COLORADO AYUUUUDAAA";
+        String respuesta = "El Ciudadano Civil: AYUUUUUDAAA AYUUDAAA CALZETIN CON ROMBOS MAN! O EL CHAPULÍN COLORADO AYUUUUDAAA!!";
         return respuesta;
     }
 
