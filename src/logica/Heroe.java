@@ -25,7 +25,7 @@ public class Heroe extends Persona implements Acciones {
 
     @Override
     public String atormentar() {
-        String respuesta = "El Héroe: No hace nada, por qué un heroenunca atormenta.";
+        String respuesta = "El Héroe: No hace nada, por qué un heroe nunca atormenta.";
         return respuesta;
     }
 

@@ -30,7 +30,7 @@ public class Civil extends Persona implements Acciones {
 
     @Override
     public String correr() {
-        String respuesta = "El Ciudadano Civil: Corre como si no hubiera mañana dejando una estela de humo, lagrimas y sudor por detrás";
+        String respuesta = "El Ciudadano Civil: Corre como si no hubiera mañana dejando una estela de humo, lagrimas y sudor por detrás!!";
         return respuesta;
     }
 

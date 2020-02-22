@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edecdfd0-918b-453f-bcc5-cfecd565ee6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exa1Patrones/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exa1Patrones/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exa1Patrones/gestores/Gestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exa1Patrones/gestores/Gestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exa1Patrones/interfaces/Acciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exa1Patrones/interfaces/Acciones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exa1Patrones/logica/Civil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exa1Patrones/logica/Civil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exa1Patrones/logica/Heroe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exa1Patrones/logica/Heroe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exa1Patrones/logica/Villano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exa1Patrones/logica/Villano.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exa1Patrones/ui/UIEscrita.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exa1Patrones/ui/UIEscrita.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestores/Gestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestores/Gestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/Acciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Acciones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logica/Civil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Civil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logica/Heroe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Heroe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/Villano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Villano.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ui/UIEscrita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/UIEscrita.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gestores/Gestor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
+            <state relative-caret-position="34">
               <caret line="53" column="39" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -64,10 +51,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/UIEscrita.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="130" column="56" selection-start-line="130" selection-start-column="56" selection-end-line="130" selection-end-column="56" />
+            <state relative-caret-position="272">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#showPrincipalMenu#0;class#UIEscrita#0" />
+                <element signature="method#processOpPrincipalMenu#0;class#UIEscrita#0" />
+                <element signature="e#1028#1627#0" />
+                <element signature="method#showEntryDataMenuType1Temtem1#0;class#UIEscrita#0" />
+                <element signature="method#processOpEntryDataMenuType1Temtem1#0;class#UIEscrita#0" />
+                <element signature="method#menuHeroe#1;class#UIEscrita#0" />
+                <element signature="e#4518#5192#1" />
+                <element signature="method#processOpcmenuHeroe#1;class#UIEscrita#0" />
+                <element signature="e#5346#6922#0" />
+                <element signature="method#menuVillano#1;class#UIEscrita#0" />
+                <element signature="method#processOpcmenuVillano#1;class#UIEscrita#0" />
+                <element signature="e#7942#9527#0" />
               </folding>
             </state>
           </provider>
@@ -85,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/logica/Heroe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            <state relative-caret-position="459">
+              <caret line="27" column="84" selection-start-line="27" selection-start-column="84" selection-end-line="27" selection-end-column="84" />
               <folding>
                 <element signature="e#1189#1190#0" expanded="true" />
                 <element signature="e#1217#1218#0" expanded="true" />
@@ -131,8 +130,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/logica/Civil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="129" selection-start-line="26" selection-start-column="129" selection-end-line="26" selection-end-column="129" />
+            <state relative-caret-position="391">
+              <caret line="32" column="137" selection-start-line="32" selection-start-column="137" selection-end-line="32" selection-end-column="137" />
               <folding>
                 <element signature="e#224#225#0" expanded="true" />
                 <element signature="e#278#279#0" expanded="true" />
@@ -191,9 +190,9 @@
         <option value="$PROJECT_DIR$/src/logica/Persona.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/gestores/Gestor.java" />
-        <option value="$PROJECT_DIR$/src/ui/UIEscrita.java" />
-        <option value="$PROJECT_DIR$/src/logica/Heroe.java" />
         <option value="$PROJECT_DIR$/src/logica/Villano.java" />
+        <option value="$PROJECT_DIR$/src/logica/Heroe.java" />
+        <option value="$PROJECT_DIR$/src/ui/UIEscrita.java" />
         <option value="$PROJECT_DIR$/src/logica/Civil.java" />
       </list>
     </option>
@@ -259,7 +258,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582352328930" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582353349257" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -299,12 +298,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582343474540</updated>
-      <workItem from="1582343481105" duration="8839000" />
+      <workItem from="1582343481105" duration="9858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8839000" />
+    <option name="totallyTimeSpent" value="9858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -325,7 +324,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0674974" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46521288" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,47 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gestores/Gestor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="53" column="39" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/UIEscrita.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="130" column="56" selection-start-line="130" selection-start-column="56" selection-end-line="130" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/logica/Heroe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1293#1294#0" expanded="true" />
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1441#1442#0" expanded="true" />
-            <element signature="e#1472#1473#0" expanded="true" />
-            <element signature="e#1499#1500#0" expanded="true" />
-            <element signature="e#1539#1540#0" expanded="true" />
-            <element signature="e#1566#1567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/logica/Villano.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -455,10 +413,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/logica/Heroe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="84" selection-start-line="27" selection-start-column="84" selection-end-line="27" selection-end-column="84" />
+          <folding>
+            <element signature="e#1189#1190#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1357#1358#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1441#1442#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1499#1500#0" expanded="true" />
+            <element signature="e#1539#1540#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gestores/Gestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="53" column="39" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/UIEscrita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#showPrincipalMenu#0;class#UIEscrita#0" />
+            <element signature="method#processOpPrincipalMenu#0;class#UIEscrita#0" />
+            <element signature="e#1028#1627#0" />
+            <element signature="method#showEntryDataMenuType1Temtem1#0;class#UIEscrita#0" />
+            <element signature="method#processOpEntryDataMenuType1Temtem1#0;class#UIEscrita#0" />
+            <element signature="method#menuHeroe#1;class#UIEscrita#0" />
+            <element signature="e#4518#5192#1" />
+            <element signature="method#processOpcmenuHeroe#1;class#UIEscrita#0" />
+            <element signature="e#5346#6922#0" />
+            <element signature="method#menuVillano#1;class#UIEscrita#0" />
+            <element signature="method#processOpcmenuVillano#1;class#UIEscrita#0" />
+            <element signature="e#7942#9527#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/logica/Civil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="129" selection-start-line="26" selection-start-column="129" selection-end-line="26" selection-end-column="129" />
+        <state relative-caret-position="391">
+          <caret line="32" column="137" selection-start-line="32" selection-start-column="137" selection-end-line="32" selection-end-column="137" />
           <folding>
             <element signature="e#224#225#0" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
