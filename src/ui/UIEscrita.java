@@ -46,7 +46,7 @@ public class UIEscrita {
 
                 break;
             case 3:
-                System.out.println("Usted selecciono: 3. Ser Civil"
+                System.out.println("Usted selecciono: 3. Ser Civil");
                 break;
 
 
